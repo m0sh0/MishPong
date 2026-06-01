@@ -2,8 +2,8 @@
 
 A 2-player pong game built in C using [raylib](https://www.raylib.com/). Made as a learning project to explore game loops, collision detection, and low-level C concepts.
 
-![Menu Screen](screenshots/window_screenshot.png)
-![Gameplay](screenshots/gameplay.png)
+<img width="912" height="744" alt="window_screenshot" src="https://github.com/user-attachments/assets/6408bab8-d82d-4c98-826a-078a0300fdb4" />
+<img width="912" height="744" alt="gameplay" src="https://github.com/user-attachments/assets/452fb031-0dbe-4321-b454-0d56957ccfa7" />
 
 ---
 
