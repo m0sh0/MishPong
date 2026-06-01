@@ -28,8 +28,8 @@ This is not a polished product — it's a learning project. I built it from scra
 
 | Action | Player 1 | Player 2 |
 |--------|----------|----------|
-| Move Up | `↑` | `W` |
-| Move Down | `↓` | `S` |
+| Move Up | `W` | `↑` |
+| Move Down | `S` | `↓` |
 | Start Game | `Enter` | — |
 | Restart | `R` | — |
 
